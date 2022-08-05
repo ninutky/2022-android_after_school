@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="type">유형 선택</string>
+    <string-array name="books">
+        <item>감상문쓰기</item>
+        <item>감상화</item>
+        <item>일기쓰기</item>
+        <item>편지쓰기</item>
+        <item>개요짜기</item>
+    </string-array>
+</resources>
